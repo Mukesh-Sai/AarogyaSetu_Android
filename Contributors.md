@@ -9,7 +9,7 @@ Gopala Krishnan S
 R S Mani  
 Abhishek Singh  
 Dr. Seema Khanna  
-
+<Some author's name>
 ---------------------------------
 Industry and Academia Leadership
 ---------------------------------
